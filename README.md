@@ -1,7 +1,6 @@
 # My Settings.json
 My vscode current settings
-
-
+`````
 {
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -78,3 +77,5 @@ My vscode current settings
   "security.workspace.trust.untrustedFiles": "open",
 
 }
+````````
+
