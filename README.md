@@ -1,6 +1,6 @@
 # My Settings.json
 My vscode current settings
-`````
+`````json
 {
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
