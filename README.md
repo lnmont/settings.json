@@ -18,24 +18,30 @@ My vscode current settings
     "editor.defaultFormatter": "Prisma.prisma",
     "editor.formatOnSave": true
   },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
   "emmet.includeLanguages": {
     "javascript": "javascript",
     "javascriptreact": "javascriptreact",
     "scss": "Sass",
     "css": "css",
     "html": "html",
+    "php": "php"
   },
   "emmet.showSuggestionsAsSnippets": true,
 
   "editor.formatOnSave": true,
+  "editor.tabSize": 2,
   "workbench.colorTheme": "Dracula",
-  "editor.fontSize": 13,
+  "editor.fontSize": 16,
   "liveServer.settings.donotVerifyTags": true,
   "liveServer.settings.donotShowInfoMsg": true,
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "symbols",
   "editor.fontLigatures": true,
   "editor.fontFamily": "Fira Code",
   "editor.fontWeight": "600",
+  "editor.lineHeight": 26,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
   },
@@ -61,21 +67,15 @@ My vscode current settings
   "tabnine.experimentalAutoImports": true,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
-  "github.copilot.enable": {
-    "*": true,
-    "yaml": false,
-    "plaintext": false,
-    "markdown": false,
-    "php": true
-  },
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.suggest.shareSuggestSelections": true,
   "editor.suggest.preview": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "security.workspace.trust.untrustedFiles": "open",
+  "security.workspace.trust.untrustedFiles": "open"
 
 }
+
 ````````
 
